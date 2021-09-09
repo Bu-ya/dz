@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05530460-124c-4d7a-a6a0-ee9e745325fc" name="Default Changelist" comment="инит" />
+    <list default="true" id="05530460-124c-4d7a-a6a0-ee9e745325fc" name="Default Changelist" comment="тест" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +10,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="py_less" />
+        <entry key="$PROJECT_DIR$" value="less2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1xtWlOh5tKt7wDmvuxhkkv7N4hd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631193006361</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="тест">
+      <created>1631193598908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631193598908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +136,7 @@
     <MESSAGE value="сделанное второе и первое домашнее задание" />
     <MESSAGE value="сделанное второе домашнее задание" />
     <MESSAGE value="инит" />
-    <option name="LAST_COMMIT_MESSAGE" value="инит" />
+    <MESSAGE value="тест" />
+    <option name="LAST_COMMIT_MESSAGE" value="тест" />
   </component>
 </project>
